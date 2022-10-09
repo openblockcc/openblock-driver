@@ -1,13 +1,6 @@
+## v2.0.0
+
+1. Add MacOS support.
+1. Add Linux support.
+
 ## v1.0.0
-
-**Driver list**
-
-- Arduino dpinst
-- CH341SER
-- CP210x
-- FTDI USB Drivers
-- mbedWinSerial
-
-**Support system**
-
-- Windows x86/x64
